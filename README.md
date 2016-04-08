@@ -1,7 +1,7 @@
 goern.rh-subscription-manager
 =============================
 
-[![Build Status](https://travis-ci.org/goern/ansible-rh-subscription-manager?branch=master)](https://travis-ci.org/goern/rh-subscription-manager)
+[![Build Status](https://travis-ci.org/goern/ansible-rh-subscription-manager?branch=master)](https://travis-ci.org/goern/ansible-rh-subscription-manager)
 
 This will configure a Red Hat Enterprise Linux 7 subscription manager, registering
 it either to the portal or to a Red Hat Satellite 6.
